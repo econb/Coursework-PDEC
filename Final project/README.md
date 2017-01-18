@@ -36,4 +36,6 @@ Estado final:
 * 4 cuadros con lados que miden 1.
 * 1 cuadro con lados que miden 3.
 
+Hay varias soluciones al reto [4,0,1], a continuación se muestran algunas, pero la mejor solución será aquella donde se remueva el menor número de fósforos.
+
 ![Search space](https://github.com/ecosdev/PDEC/blob/master/Final%20project/searchspace.png)
