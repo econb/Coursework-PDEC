@@ -39,3 +39,15 @@ Estado final:
 Hay varias soluciones al reto [4,0,1], a continuación se muestran algunas, pero la mejor solución será aquella donde se remueva el menor número de fósforos.
 
 ![Search space](https://github.com/ecosdev/PDEC/blob/master/Final%20project/searchspace.png)
+
+#El problema de contar cuadrados
+
+Estado inicial: (0,0)  
+Estado final: (0,0)  
+Camino: [ (0,0), (1,0), (2,0), (2,1), (2,2), (1,2), (0,2), (0,1) (0,0) ]  
+
+![Square](https://github.com/ecosdev/PDEC/blob/master/Final%20project/square.PNG)
+
+Identificar un cuadrado se reduce a reconocer cuatro ángulos rectos a partir de la secuencia de coordenadas, y el patrón para reconocer ángulos rectos es el siguiente:
+
+(X,_), (X,Y), (_,Y) ó (_,Y), (X,Y), (X,_)
