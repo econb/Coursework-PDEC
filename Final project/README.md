@@ -36,4 +36,4 @@ Estado final:
 * 4 cuadros con lados que miden 1.
 * 1 cuadro con lados que miden 3.
 
-![Search space](https://github.com/ecosdev/PDEC/blob/master/Final%20project/search_space.png)
+![Search space](https://github.com/ecosdev/PDEC/blob/master/Final%20project/searchspace.png)
