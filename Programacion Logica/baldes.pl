@@ -1,8 +1,4 @@
-/* Tema: Problema Baldes version 2.0
- * Fecha: Marzo 29, 2011
- * Asignatura: Programacion Declarativa
- * Programa: Ingenieria de Sistemas
- * Escuela Colombiana de Ingenieria Julio Garavito
+/* Tema: Problema Baldes
  */
 
 %prueba: ruta([24,11,8,5], [24,0,0,0], [8,8,8,0], [[24,0,0,0]], R). 
