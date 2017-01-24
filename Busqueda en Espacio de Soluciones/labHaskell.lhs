@@ -1,4 +1,3 @@
-Eddie Contreras
 Laboratorio motor A - A*. 
 Punto 1
 PDEC
@@ -55,7 +54,7 @@ adicioneCs: Adiciona manteniendo el orden caminos a una secuencia ordenada de ca
 >	adicioneCs [] lisCam2 = lisCam2
 >	adicioneCs (cam:lisCam)  lisCam2 = adicioneCs lisCam (adicione cam lisCam2)
 
-expanda: Expande un camino incluyendo únicamente caminos sin ciclos.
+expanda: Expande un camino incluyendo Ãºnicamente caminos sin ciclos.
 
 >	expanda :: Camino -> [Camino]
 >	expanda (cst,estados) = [(cst - (costoEstimado (last estados)) + cstReal + costoEstimado (estado),
